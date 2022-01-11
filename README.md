@@ -19,11 +19,12 @@ The company began its global expansion in 2021, opening its first international 
 
 At the end of 2018, the Startup, founded 11 years ago, had already **offered accommodation to more than 300 million** people around the world, clashing with traditional hotel chains.
 
-<center><img alt="Analyzing Airbnb" width="10%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg">< /center>
+<center><img alt="Analisando Airbnb" width="10%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
   
 New York is among the three cities worldwide with the highest number of apartments and accommodations listed on its marketplace platform. The company's business in the city is a fascinating look at how the sharing economy has evolved, as well as the challenges they will still face.
   
- <img src="https://image.freepik.com/free-photo/beautiful-panoramic-shot-new-york-city_181624-433.jpg" alt="project-related way image"height=400px >
+<p align="center">
+  <img src="https://image.freepik.com/free-photo/beautiful-panoramic-shot-new-york-city_181624-433.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 New York City is the most populous city in the United States. New York is one of the most populous megacities in the world. New York City has been described as the cultural, financial and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, restaurants, art, fashion and sports, and is the most photographed city in the world. In addition to the planet's financial capital, it is also at the forefront when it comes to technology and innovation. Its ecosystem has attracted the attention of the whole world, creating a favorable environment for the creation of technology and internet companies, becoming one of the largest innovation hubs in the world.

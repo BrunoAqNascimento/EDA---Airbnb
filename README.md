@@ -24,7 +24,7 @@ At the end of 2018, the Startup, founded 11 years ago, had already **offered acc
 New York is among the three cities worldwide with the highest number of apartments and accommodations listed on its marketplace platform. The company's business in the city is a fascinating look at how the sharing economy has evolved, as well as the challenges they will still face.
   
 <p align="center">
-  <img src="https://image.freepik.com/free-photo/beautiful-panoramic-shot-new-york-city_181624-433.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://image.freepik.com/free-photo/panoramic-view-new-york-city-manhattan-midtown-dusk-with-skyscrapers-illuminated-east-river_268835-790.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 New York City is the most populous city in the United States. New York is one of the most populous megacities in the world. New York City has been described as the cultural, financial and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, restaurants, art, fashion and sports, and is the most photographed city in the world. In addition to the planet's financial capital, it is also at the forefront when it comes to technology and innovation. Its ecosystem has attracted the attention of the whole world, creating a favorable environment for the creation of technology and internet companies, becoming one of the largest innovation hubs in the world.
@@ -54,7 +54,7 @@ No final de 2018, a Startup fundada 11 anos atrás, já havia **oferecido hosped
 Nova York está entre as três cidades  a nível mundial com o maior número de apartamentos e acomodações listadas na sua plataforma de marketplace. Os negócios da companhia na cidade são uma visão fascinante de como a economia compartilhada evoluiu, bem como os desafios que ainda estão por vir.
 
 <p align="center">
-  <img src="https://image.freepik.com/free-photo/beautiful-panoramic-shot-new-york-city_181624-433.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://image.freepik.com/free-photo/statue-liberty-new-york-city-skyline-usa_268835-777.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 A cidade de Nova York é a cidade mais populosa dos Estados Unidos. Nova York é uma das megalópoles mais populosas do mundo. A cidade de Nova York foi descrita como a capital cultural, financeira e da mídia do mundo, influenciando significativamente o comércio, entretenimento, pesquisa, tecnologia, educação, política, turismo, restaurantes, arte, moda e esportes, e é a cidade mais fotografada no mundo. Além de capital financeira do planeta, também está na linha de frente quando o assunto é tecnologia e inovação. Seu ecossistema tem chamado a atenção do mundo inteiro, criando um ambiente favorável à criação de empresas de tecnologia e internet, se tornando um dos maiores hubs de inovação do mundo.
